@@ -1,0 +1,11 @@
+item_id,name,stock,weight,price
+item_201,Dell XPS 13 Laptop,12,1.2,1199.99
+item_202,Apple iPhone 14 Pro,25,0.4,1099.99
+item_203,Sony WH-1000XM5 Headphones,40,0.6,349.99
+item_204,Samsung Galaxy Tab S9,18,0.9,799.99
+item_205,Apple Watch Series 9,35,0.3,429.99
+item_206,Logitech MX Master 3S Mouse,50,0.15,99.99
+item_207,Mechanical Keyboard (Keychron K8),30,1.1,129.99
+item_208,Portable 2TB SSD (Samsung T7),20,0.2,179.99
+item_209,Bose SoundLink Revolve+ Speaker,15,0.9,299.99
+item_210,Kindle Paperwhite 11th Gen,22,0.35,149.99
