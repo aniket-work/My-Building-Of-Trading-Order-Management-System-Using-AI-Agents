@@ -1,46 +1,54 @@
 # My Building Of Trading Order Management System Using AI Agents
 
-Warehousing Meets AI: A No-Nonsense Guide to Smarter Inventory Management
+Practical Guide : Automating Business Transactions with AI-Powered Workflows
 
-TL;DR
+## TL;DR
 
-A hands-on guide showing how to build an AI-powered warehouse management system using Python and modern AI technologies. The system helps businesses analyze inventory data, predict stock needs, and make smarter warehouse decisions through natural language interactions.
+A practical implementation of an AI-powered B2B order management system using LangChain and LLM, demonstrating automated order processing, inventory management, and real-time communication between trading partners.
 
-Full Article : [https://medium.com/@learn-simplified/practical-guide-my-building-of-ai-warehouse-manager-35a278e0762d
+Full Article : [https://medium.com/@learn-simplified/my-building-of-trading-order-management-system-using-ai-agents-7472c6c1fe73
 
 
-Tech stack
-# AI Warehouse Manager Technical Stack
+## Tech stack
 
-## Frontend Technologies
-| Technology | Purpose | Implementation Details |
-|------------|---------|------------------------|
-| Streamlit | Web Framework | Powers the interactive web interface with built-in components and state management |
-| Custom CSS | Styling | Dark theme implementation with professional color schemes and responsive design |
-| Session State | User Management | UUID-based session tracking and state persistence |
-| Wide Layout | UI/UX | Responsive design with collapsible sidebar and multi-column layout |
-
+![Design Diagram](design_docs/tech_stack.jpg)
 
 
 ## Introduction
-In today’s fast-paced business environment, the difference between success and failure often comes down to how quickly and accurately you can make decisions. While artificial intelligence might sound futuristic, this article demonstrates a practical, implementable way to bring AI into everyday warehouse operations. Through our example warehouse system, you’ll see how AI can:
-
- - Transform complex data analysis into simple conversations
-- Help predict inventory needs before shortages occur
-- Reduce the time spent training new staff on complex systems
-- Enable faster, more accurate decision-making
-
-Even though our example uses a fictional warehouse, the principles and implementation details apply to real-world businesses of any size looking to modernize their operations.
+In today’s fast-paced business environment, efficient order management is crucial for B2B operations. GlobalTrade Nexus AI showcases how artificial intelligence can streamline complex business transactions, reduce errors, and enhance communication between trading partners.
 
 ## Architecture
-
-### My Building of AI Warehouse Manager
-
 
 ![Design Diagram](design_docs/design.jpg)
 
 
-# Tutorial: My Building of AI Warehouse Manager
+
+## What’s This Article About?
+This article presents a comprehensive B2B trading platform that leverages AI to automate order processing workflows. The system handles everything from order placement to fulfillment, featuring:
+
+- Real-time inventory verification
+- Automated shipping cost calculations
+- Instant order validation
+- Secure transaction processing
+- Smart order cancellation capabilities
+- State management across the entire order lifecycle
+
+The platform demonstrates how modern AI technologies can be integrated into traditional business processes to create a seamless, efficient trading environment.
+
+
+## Why Read It?
+As businesses increasingly embrace digital transformation, AI-powered solutions are becoming essential for maintaining competitive advantage. This article provides:
+
+- A practical example of AI implementation in B2B commerce
+- Insights into modern system architecture for business applications
+- Real-world application of language models in business logic
+- Demonstration of secure and scalable state management
+- Blueprint for building similar AI-enhanced business systems
+
+Through our fictional companies’ implementation, readers can understand how AI can transform their business operations and prepare for the future of B2B commerce.
+
+
+# Tutorial: My Building Of Trading Order Management System Using AI Agents
 
 ## Prerequisites
 - Python installed on your system.
@@ -70,7 +78,7 @@ Even though our example uses a fictional warehouse, the principles and implement
 
 **Install Project Dependencies:**
 
-Follow these steps to set up and run the  "My Building of AI Warehouse Manager"
+Follow these steps to set up and run the  "My Building Of Trading Order Management System Using AI Agents"
 
 1. Navigate to your project directory:
    ```
@@ -85,7 +93,7 @@ Follow these steps to set up and run the  "My Building of AI Warehouse Manager"
    This command installs all the necessary Python packages listed in the requirements.txt file.
 
 
-## Run - Hands-On Guide: My Building of AI Warehouse Manager
+## Run - Hands-On Guide: My Building Of Trading Order Management System Using AI Agents
 
    ```bash 
      
